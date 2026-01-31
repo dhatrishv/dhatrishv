@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi! I'm Dhatrish:
 🔭 I’m currently working on AI-powered cybersecurity projects including WebShield Pro, security scanners, and IoT-based smart systems.<br>👯 I’m looking to collaborate on Cybersecurity tools, SOC automation projects, IoT security, AI-driven threat detection, and open-source security research.<br>🤝 I’m looking for help with Advanced threat modeling, cloud security best practices, and real-world SOC workflows.<br>🌱 I’m currently learning Microsoft Security Copilot, SOC operations, cloud security, advanced DBMS concepts, and network defense strategies.<br>💬 Ask me about Cybersecurity, Web Security Scanning, IoT Systems, Flask & Backend Development, Security Analytics, and AI in Security Operations.<br>
 
 ## 🌐 Socials:
